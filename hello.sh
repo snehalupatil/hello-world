@@ -2,4 +2,6 @@
 
 echo "Hello world"
 echo "Good morning"
- echo "modify local"
+echo "modify local"
+
+echo "Bye"
