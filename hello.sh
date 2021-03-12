@@ -3,5 +3,7 @@
 echo "Hello world"
 echo "Good morning"
 
-ech0 "modifing remote"
+echo "modifing remote"
+
+echo "Good Day" 
 
